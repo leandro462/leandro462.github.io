@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi proyecto final de HTML</title>
+</head>
+<body>
+
+    <header>
+        <h1>Comida típica dominicana</h1>
+        <p>Un pequeño sitio para mi proyecto final del curso de HTML</p>
+    </header>
+
+    <main>
+        <p>
+            La cocina dominicana mezcla influencias españolas, africanas
+            y taínas. Aquí dejo algunos de los platos más conocidos.
+        </p>
+
+        <h2>Platos más populares</h2>
+        <ul>
+            <li>La Bandera Dominicana (arroz, habichuelas y carne)</li>
+            <li>Mangú con los tres golpes</li>
+            <li>Sancocho</li>
+            <li>Mofongo</li>
+        </ul>
+
+        <h2>Algunas imágenes</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mang%C3%BA.jpg/640px-Mang%C3%BA.jpg" alt="Plato de mangú con cebolla">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sancocho_dominicano.jpg/640px-Sancocho_dominicano.jpg" alt="Sancocho dominicano servido en un plato hondo">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Mofongo.jpg/640px-Mofongo.jpg" alt="Plato de mofongo con chicharrón">
+
+        <h2>Para aprender más</h2>
+        <p>
+            Si quieres más información sobre la gastronomía dominicana,
+            puedes visitar
+            <a href="https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_la_Rep%C3%BAblica_Dominicana" target="_blank">este artículo de Wikipedia</a>.
+        </p>
+    </main>
+
+    <footer>
+        <p>Proyecto final - Curso de HTML - 2026</p>
+    </footer>
+
+</body>
+</html>
